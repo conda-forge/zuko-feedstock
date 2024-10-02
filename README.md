@@ -148,4 +148,5 @@ Feedstock Maintainers
 =====================
 
 * [@frankier](https://github.com/frankier/)
+* [@wtclarke](https://github.com/wtclarke/)
 
