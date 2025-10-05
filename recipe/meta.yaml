@@ -1,5 +1,5 @@
 {% set name = "zuko" %}
-{% set version = "1.4.1" %}
+{% set version = "1.5.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/zuko-{{ version }}.tar.gz
-  sha256: 0ebdcdf4f6fb9311ad25f442159dbe57bc80822e8a55872f3b59ba04bd007471
+  sha256: 86ae48e3e8fe79841acbc4b2c54502ab22b2ba1a50a646ad7618303718e5c7b1
 
 build:
   noarch: python
